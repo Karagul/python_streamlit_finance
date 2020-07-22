@@ -4,5 +4,6 @@
 
 To run:
 ```
+pip install --upgrade -r requirements.txt
 streamlit run app.py
 ```
