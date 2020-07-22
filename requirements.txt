@@ -62,7 +62,7 @@ Send2Trash==1.5.0
 six==1.15.0
 streamlit==0.63.1
 ta==0.5.25
-TA-Lib @ file:///C:/Users/kristian.jackson/Documents/Projects/python_finance/TA_Lib-0.4.18-cp37-cp37m-win_amd64.whl
+TA-Lib @ file:///TA_Lib-0.4.18-cp37-cp37m-win_amd64.whl
 terminado==0.8.3
 testpath==0.4.4
 toml==0.10.1
